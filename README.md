@@ -3,4 +3,4 @@ You are now on our official page. If you have any questions, feel free to contac
 
 * mooki007bhek@gmail.com
 
-All contacts: [Here](mainpage.md)
+All contacts: [Here](contacts.md)
